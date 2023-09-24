@@ -25,7 +25,7 @@
 
 Клонировать проект
 ```shell
-git clone 
+git clone git@github.com:elityaev/django_uploader.git 
 ```
 
 Из директории с проектом запустить команду сборки и запуска контейнеров 
